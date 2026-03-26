@@ -1,4 +1,4 @@
-# TAREA 1: "GITHUB" 
+# 📚 TAREA 1: "GITHUB" 
 
 ## Presentación en Github 
 
@@ -8,6 +8,7 @@
 # 🙋🏻‍♀️ SOBRE MÍ.... 
 
 ## Erika Luz Polanco Burton 
+
 - Estudiante de 5to año de Ingenería Civil Industrial
 - En mi tiempo libre me gusta bailar y pasar tiempo con mis amistades
 
@@ -19,3 +20,7 @@
 - Aplicar estos conocimientos en proyectos futuros y en mi práctica
 
 ---
+# 🧠 INFORMACIÓN SOBRE GITHUB
+
+
+

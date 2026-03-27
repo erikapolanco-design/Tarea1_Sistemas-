@@ -47,7 +47,7 @@ Los títulos -> #
 Separar -> ---
  - Sirven para dividir partes o diapositivas
 
-Texto normal
+Texto normaL
  - Escribir normal, sin simbolos
 
 Listas de cosas -> -

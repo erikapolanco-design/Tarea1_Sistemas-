@@ -71,6 +71,12 @@ Descarga proyecto -> GIT
 ---
 # 💡 CONCLUSIÓN 
 
+GitHub facilita el trabajo colaborativo que permite crear, guardar, compartir y desarrollar proyectos de forma 100% online/digital. El cual se basa en el uso del GIT, que permite guardar y controlar cambios de un archivo.
+Principalmente es una herramienta fundamental y práctica en el ámbito académico y profesional.
+
+## Gracias por su atención 
+### Erika Polanco
+
 
 
 

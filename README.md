@@ -55,7 +55,7 @@ Listas de cosas -> -
 
 Descargar proyecto -> ZIP
   - Para guardar información en formato ZIP
-    PASOS:
+   - PASOS:
      - Entra al repositorio
      - Haz clic en el botón “Code”
      - Presiona “Download ZIP”
@@ -64,7 +64,7 @@ Descargar proyecto -> ZIP
 
 Descarga proyecto -> GIT
   - Para guardar información en formato GIT
-    PASOS: 
+   - PASOS: 
      - Copias el link del repositorio
      - En tu computador escribes: "git clone link-del-repositorio"
 
@@ -75,7 +75,7 @@ GitHub facilita el trabajo colaborativo que permite crear, guardar, compartir y 
 Principalmente es una herramienta fundamental y práctica en el ámbito académico y profesional.
 
 ## Gracias por su atención 
-### Erika Polanco
+### Erika Polanco Burton
 
 
 

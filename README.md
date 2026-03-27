@@ -16,7 +16,7 @@
 
 - Aprender sobre sistemas digitales  
 - Mejorar mi manejo en programas de programación  
-- Adquirir conocimientos en un área en la que tengo poca experiencia  
+- Adquirir conocimientos en un área en la que tengo poca experiencia
 - Aplicar estos conocimientos en proyectos futuros y en mi práctica
 
 ---

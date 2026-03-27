@@ -34,7 +34,7 @@ GITHUB es una plataforma online que aloja de forma correcta:
 - Automatiza flujos de trabajo
 - Subir archivos o códigos
 
-###Principalmente:
+### Principalmente:
 ¡Guardar, compartir y gestionar proyectos de programación!
 
 ---
@@ -42,31 +42,31 @@ GITHUB es una plataforma online que aloja de forma correcta:
 ## De lo más básico:
 
 Los títulos -> #
-  Sirven para hacer letras grandes
+ - Sirven para hacer letras grandes
 
 Separar -> ---
-  Sirven para dividir partes o diapositivas
+ - Sirven para dividir partes o diapositivas
 
 Texto normal
-  Escribir normal, sin simbolos
+ - Escribir normal, sin simbolos
 
 Listas de cosas -> -
-  Para enumerar
+ - Para enumerar
 
 Descargar proyecto -> ZIP
-  Para guardar información en formato ZIP
-  PASOS:
-   - Entra al repositorio
-   - Haz clic en el botón “Code”
-   - Presiona “Download ZIP”
-   - Se descarga el archivo
-   - Lo descomprimes en tu computador
+  - Para guardar información en formato ZIP
+    PASOS:
+     - Entra al repositorio
+     - Haz clic en el botón “Code”
+     - Presiona “Download ZIP”
+     - Se descarga el archivo
+     - Lo descomprimes en tu computador
 
 Descarga proyecto -> GIT
-  Para guardar información en formato GIT
-  PASOS: 
-   - Copias el link del repositorio
-   - En tu computador escribes: "git clone link-del-repositorio"
+  - Para guardar información en formato GIT
+    PASOS: 
+     - Copias el link del repositorio
+     - En tu computador escribes: "git clone link-del-repositorio"
 
 ---
 # 💡 CONCLUSIÓN 
